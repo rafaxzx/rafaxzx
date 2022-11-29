@@ -1,7 +1,7 @@
 
 ***
 
-# 👋 Olá, Eu sou o **Rafael**
+# 👋 Olá, eu sou o **Rafael**
 
 
  👀 *Interessado* em programação de dispositivos **mobile** e **IoT**
