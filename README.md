@@ -5,10 +5,10 @@
 
 
  👀 *Interessado* em programação de dispositivos **mobile** e **IoT**
-
+ 
  🌱 *Aprendendo* atualmente **Flutter** e **Python**
 
- 💞️ *Buscando evoluir* como programador para *colaborar* com projetos 
+ 📈 *Buscando evoluir* como programador para *colaborar* com projetos 
  **opensource** e futuramente conseguir um **emprego** na área
 
  📫 Para entrar em *contato* comigo essas são minhas redes sociais: &nbsp; <a href= "https://instagram.com/" title="Instagram"> <img src="instagram_icon.png" with="25" height="25" ></a> &nbsp;
@@ -25,7 +25,7 @@
 
  🌱 Currently *learning* **Flutter** and **Python**
 
- 💞️ *Looking to evolve* as a programmer *to collaborate* with **opensource** projects and in the future get a **job** in the area
+ 📈 *Looking to evolve* as a programmer *to collaborate* with **opensource** projects and in the future get a **job** in the area
 
  📫 *To contact me*, these are my social networks: &nbsp; <a href= "https://instagram.com/" title="Instagram"> <img src="instagram_icon.png" with="25" height="25" ></a> &nbsp;
  <a href= "https://www.linkedin.com/" title="LinkeIn"> <img src="linkedin_icon.png" with="25" height="25" ></a> &nbsp;
