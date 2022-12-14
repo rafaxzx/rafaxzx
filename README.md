@@ -6,7 +6,7 @@
 
  👀 *Interessado* em programação de dispositivos **mobile** e **IoT**
  
- 🌱 *Aprendendo* atualmente **Flutter** e **Python**
+ 🌱 *Aprendendo* atualmente **HTML, CSS, Javascript** e **Python**
 
  📈 *Buscando evoluir* como programador para *colaborar* com projetos 
  **opensource** e futuramente conseguir um **emprego** na área
@@ -23,7 +23,7 @@
 
  👀 *Interested* in **mobile** and **IoT** device programming
 
- 🌱 Currently *learning* **Flutter** and **Python**
+ 🌱 Currently *learning* **HTML, CSS, Javascript** e **Python**
 
  📈 *Looking to evolve* as a programmer *to collaborate* with **opensource** projects and in the future get a **job** in the area
 
