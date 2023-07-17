@@ -4,7 +4,7 @@
 # 👋 Olá, eu sou o **Rafael**
 
 
- 👀 *Interessado* em programação de dispositivos **mobile** e **IoT**
+ 👀 *Interessado* em programação de dispositivos **mobile**, **IoT** e **web**
  
  🌱 *Aprendendo* atualmente **HTML, CSS, Javascript** e **Python**
 
@@ -21,7 +21,7 @@
 
 # 👋 Hi, I’m **Rafael**
 
- 👀 *Interested* in **mobile** and **IoT** device programming
+ 👀 *Interested* in **mobile**, **IoT** and **web** device programming
 
  🌱 Currently *learning* **HTML, CSS, Javascript** e **Python**
 
@@ -34,8 +34,3 @@
  <a href= "mailto:rafael.dev.mobile@gmail.com" title="Gmail"> <img src="gmail_icon.png" with="27" height="27" ></a>
 
 ***
-
-<!---
-rafaxzx/rafaxzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
