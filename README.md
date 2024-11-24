@@ -1,38 +1,31 @@
+&nbsp;
 
-***
+---
 
 # 👋 Olá, eu sou o **Rafael**
 
+👀 _Interessado_ em programação de dispositivos **mobile** e **web**
 
- 👀 *Interessado* em programação de dispositivos **mobile** e **web**
- 
- 🌱 *Aprendendo* atualmente **HTML, CSS, Javascript** e **Python**
+🌱 _Aprendendo_ atualmente **HTML, CSS, Javascript, Python** e **C#**
 
- 📈 *Buscando evoluir* como programador para *colaborar* com projetos 
- **opensource** e futuramente conseguir um **trabalhar** na área
+📈 _Buscando evoluir_ como programador para _colaborar_ com projetos
+**opensource** e futuramente conseguir uma **oportunidade** na área
 
- 📫 Para entrar em *contato* comigo essas são minhas redes sociais: &nbsp; <a href= "https://instagram.com/" title="Instagram"> <img src="instagram_icon.png" with="25" height="25" ></a> &nbsp;
-<a href= "https://www.linkedin.com/" title="LinkeIn"> <img src="linkedin_icon.png" with="25" height="25" ></a> &nbsp;
-<a href= "https://twitter.com/rafaxzx" title="Twitter"> <img src="twitter_icon.png" with="25" height="25" ></a> &nbsp;
-<a href= "mailto:rafael.dev.mobile@gmail.com" title="Gmail"> <img src="gmail_icon.png" with="27" height="27" ></a>
-<!--<a href= "https://facebook.com/" title="Facebook"> <img src="facebook_icon.png" with="26" height="26" ></a>-->&nbsp;
+📫 Para entrar em _contato_ comigo essas são minhas redes sociais: &nbsp;
+<a href= "https://www.linkedin.com/in/rafaelgsilva--/" title="LinkedIn"> <img src="linkedin_icon.png" with="25" height="25" ></a> &nbsp;
+<a href= "mailto:rafael.dev.mobile@gmail.com" title="Gmail"> <img src="gmail_icon.png" with="27" height="27" ></a> &nbsp;
 
-
-***
+---
 
 # 👋 Hi, I’m **Rafael**
 
- 👀 *Interested* in **mobile** and **web** device programming
+👀 _Interested_ in **mobile** and **web** device programming
 
- 🌱 Currently *learning* **HTML, CSS, Javascript** e **Python**
+🌱 Currently _learning_ **HTML, CSS, Javascript, Python** e **C#**
 
- 📈 *Looking to evolve* as a programmer *to collaborate* with **opensource** projects and in the future get a **job** in the area
+📈 _Looking to evolve_ as a programmer _to collaborate_ with **opensource** projects and in the future get a **job** in the area
 
- 📫 *To contact me*, these are my social networks: &nbsp; <a href= "https://instagram.com/" title="Instagram"> <img src="instagram_icon.png" with="25" height="25" ></a> &nbsp;
- <a href= "https://www.linkedin.com/" title="LinkeIn"> <img src="linkedin_icon.png" with="25" height="25" ></a> &nbsp;
- <a href= "https://twitter.com/rafaxzx" title="Twitter"> <img src="twitter_icon.png" with="25" height="25" ></a> &nbsp;
- <a href= "mailto:rafael.dev.mobile@gmail.com" title="Gmail"> <img src="gmail_icon.png" with="27" height="27" ></a>
- <!--<a href= "https://facebook.com/" title="Facebook"> <img src="facebook_icon.png" with="26" height="26" ></a> &nbsp;-->
- 
+📫 _To contact me_, these are my social networks: &nbsp; <a href= "https://www.linkedin.com/in/rafaelgsilva--/" title="LinkedIn"> <img src="linkedin_icon.png" with="25" height="25" ></a> &nbsp;
+<a href= "mailto:rafael.dev.mobile@gmail.com" title="Gmail"> <img src="gmail_icon.png" with="27" height="27" ></a> &nbsp;
 
-***
+---
